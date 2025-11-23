@@ -24,7 +24,7 @@ Installation
 Explain how someone can set up the project quickly:
 
 # Clone the repository
-git clone https://github.com/your-username/your-project.git
+git clone hhttps://github.com/REZACODINNGCRAFTER/SakhtemanYar---.git
 
 # Move into the project folder
 cd your-project
